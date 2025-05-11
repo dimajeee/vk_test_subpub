@@ -1,0 +1,1 @@
+Тестовое задание на позицию "Go developer" в VK teams
